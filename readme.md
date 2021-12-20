@@ -1,4 +1,4 @@
-# deploying wordpress in 30 minutes including three coffee breaks in the middle!
+# deploying a functioning wordpress web page in 30 minutes (including three coffee breaks in the middle!).
 
 ## you have decided to launch your first wordpress web page and attach a mysql data base but you don't know where to start? this is your lucky day. here is all you need to know.
 
