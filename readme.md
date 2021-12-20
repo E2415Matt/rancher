@@ -155,7 +155,7 @@ $ kubectl delete -k ./
 ```
 ### 2- delete whatever resources deployed with rancher user panel from rancher user panel
 
-### 3- in the 3rancher-k3s folder 
+### 3- from inside the rancher folder 
 ```
 $ terraform destroy -auto-approve
 ```
